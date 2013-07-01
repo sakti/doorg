@@ -1,4 +1,6 @@
 doorg
 =====
 
-Document Organizer tools
+Document Organizer tools.
+
+Built with Django + ElasticSearch.
